@@ -1,0 +1,15 @@
+C:\Maxim\!work\!GeekBrains\C_sharp\01_lection\Example002_HelloUser\bin\Debug\net6.0\Example002_HelloUser.exe
+C:\Maxim\!work\!GeekBrains\C_sharp\01_lection\Example002_HelloUser\bin\Debug\net6.0\Example002_HelloUser.deps.json
+C:\Maxim\!work\!GeekBrains\C_sharp\01_lection\Example002_HelloUser\bin\Debug\net6.0\Example002_HelloUser.runtimeconfig.json
+C:\Maxim\!work\!GeekBrains\C_sharp\01_lection\Example002_HelloUser\bin\Debug\net6.0\Example002_HelloUser.dll
+C:\Maxim\!work\!GeekBrains\C_sharp\01_lection\Example002_HelloUser\bin\Debug\net6.0\Example002_HelloUser.pdb
+C:\Maxim\!work\!GeekBrains\C_sharp\01_lection\Example002_HelloUser\obj\Debug\net6.0\Example002_HelloUser.csproj.AssemblyReference.cache
+C:\Maxim\!work\!GeekBrains\C_sharp\01_lection\Example002_HelloUser\obj\Debug\net6.0\Example002_HelloUser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Maxim\!work\!GeekBrains\C_sharp\01_lection\Example002_HelloUser\obj\Debug\net6.0\Example002_HelloUser.AssemblyInfoInputs.cache
+C:\Maxim\!work\!GeekBrains\C_sharp\01_lection\Example002_HelloUser\obj\Debug\net6.0\Example002_HelloUser.AssemblyInfo.cs
+C:\Maxim\!work\!GeekBrains\C_sharp\01_lection\Example002_HelloUser\obj\Debug\net6.0\Example002_HelloUser.csproj.CoreCompileInputs.cache
+C:\Maxim\!work\!GeekBrains\C_sharp\01_lection\Example002_HelloUser\obj\Debug\net6.0\Example002_HelloUser.dll
+C:\Maxim\!work\!GeekBrains\C_sharp\01_lection\Example002_HelloUser\obj\Debug\net6.0\refint\Example002_HelloUser.dll
+C:\Maxim\!work\!GeekBrains\C_sharp\01_lection\Example002_HelloUser\obj\Debug\net6.0\Example002_HelloUser.pdb
+C:\Maxim\!work\!GeekBrains\C_sharp\01_lection\Example002_HelloUser\obj\Debug\net6.0\Example002_HelloUser.genruntimeconfig.cache
+C:\Maxim\!work\!GeekBrains\C_sharp\01_lection\Example002_HelloUser\obj\Debug\net6.0\ref\Example002_HelloUser.dll
